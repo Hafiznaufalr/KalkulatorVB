@@ -1,0 +1,19 @@
+C:\VB PROJECTS\Kalkulator\bin\Debug\Kalkulator.exe
+C:\VB PROJECTS\Kalkulator\bin\Debug\Kalkulator.pdb
+C:\VB PROJECTS\Kalkulator\bin\Debug\Kalkulator.xml
+C:\VB PROJECTS\Kalkulator\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\VB PROJECTS\Kalkulator\obj\x86\Debug\Kalkulator.vbproj.GenerateResource.Cache
+C:\VB PROJECTS\Kalkulator\obj\x86\Debug\Kalkulator.exe
+C:\VB PROJECTS\Kalkulator\obj\x86\Debug\Kalkulator.xml
+C:\VB PROJECTS\Kalkulator\obj\x86\Debug\Kalkulator.pdb
+C:\VB PROJECTS\Kalkulator\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\Buku VB\VB PROJECTS\Kalkulator\obj\x86\Debug\Kalkulator.exe
+D:\Buku VB\VB PROJECTS\Kalkulator\obj\x86\Debug\Kalkulator.xml
+D:\Buku VB\VB PROJECTS\Kalkulator\obj\x86\Debug\Kalkulator.pdb
+D:\Buku VB\VB PROJECTS\Kalkulator\bin\Debug\Kalkulator.exe
+D:\Buku VB\VB PROJECTS\Kalkulator\bin\Debug\Kalkulator.pdb
+D:\Buku VB\VB PROJECTS\Kalkulator\bin\Debug\Kalkulator.xml
+D:\Buku VB\VB PROJECTS\Kalkulator\obj\x86\Debug\Kalkulator.vbprojResolveAssemblyReference.cache
+D:\Buku VB\VB PROJECTS\Kalkulator\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\Buku VB\VB PROJECTS\Kalkulator\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\Buku VB\VB PROJECTS\Kalkulator\obj\x86\Debug\Kalkulator.vbproj.GenerateResource.Cache
